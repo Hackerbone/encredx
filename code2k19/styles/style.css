@@ -141,7 +141,7 @@ font-size: 1.2em;
 #members{
     display:flex;
     justify-content:center;
-    flex-direction:column
+    flex-direction:column;
     text-align:center;
 }
 .person1{
