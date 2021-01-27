@@ -46,11 +46,11 @@
                     Level
                 </a>
 
-                <a class="navbar-item" href="encredx/lvls/leaderboard.php">
+                <a class="navbar-item" href="/lvls/leaderboard.php">
                     Leaderboard
                 </a>
 
-                <a class="navbar-item" href="rules.php">
+                <a class="navbar-item" href="/lvls/rules.php">
                     Rules
                 </a>
 
