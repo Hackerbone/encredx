@@ -9,8 +9,8 @@
 </head>
 <body>
     <h1>Click below to go to respective sites:</h1>
-    <p><a href="encredx/code2k19">CODE Website</a></p>
-    <p><a href="encredx/encredx">EncredX</a></p>
+    <p><a href="/code2k19">CODE Website</a></p>
+    <p><a href="/encredx">EncredX</a></p>
 
 </body>
 </html>
