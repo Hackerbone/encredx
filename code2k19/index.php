@@ -198,7 +198,7 @@
         <!-- Modal Header -->
         <div class="modal-header">
           <h4 class="modal-title">Web Designing</h4>
-          <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">&times;</button>
+          <button type="button" class="close" data-dismiss="modal"  onclick="window.location.href = '#Events'">&times;</button>
         </div>
 
         <!-- Modal body -->
@@ -220,7 +220,7 @@
 
         <!-- Modal footer -->
         <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">Close</button>
+          <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = '#Events'" >Close</button>
         </div>
 
       </div>
@@ -234,7 +234,7 @@
         <!-- Modal Header -->
         <div class="modal-header">
           <h4 class="modal-title">DJ Mixing </h4>
-          <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">&times;</button>
+          <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = '#Events'" >&times;</button>
         </div>
 
         <!-- Modal body -->
@@ -255,7 +255,7 @@
 
         <!-- Modal footer -->
         <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">Close</button>
+          <button type="button" class="btn btn-secondary" data-dismiss="modal"  onclick="window.location.href = '#Events'">Close</button>
         </div>
 
       </div>
@@ -269,7 +269,7 @@
         <!-- Modal Header -->
         <div class="modal-header">
           <h4 class="modal-title">Gaming </h4>
-          <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">&times;</button>
+          <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = '#Events'" >&times;</button>
         </div>
 
         <!-- Modal body -->
@@ -287,7 +287,7 @@
 
         <!-- Modal footer -->
         <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">Close</button>
+          <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = '#Events'" >Close</button>
         </div>
 
       </div>
@@ -301,7 +301,7 @@
         <!-- Modal Header -->
         <div class="modal-header">
           <h4 class="modal-title">CODE++ </h4>
-          <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">&times;</button>
+          <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = '#Events'" >&times;</button>
         </div>
 
         <!-- Modal body -->
@@ -323,7 +323,7 @@
           </div>
         <!-- Modal footer -->
         <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">Close</button>
+          <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = '#Events'" >Close</button>
         </div>
 
       </div>
@@ -338,7 +338,7 @@
         <!-- Modal Header -->
         <div class="modal-header">
           <h4 class="modal-title">Photography</h4>
-          <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">&times;</button>
+          <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = '#Events'" >&times;</button>
         </div>
 
         <!-- Modal body -->
@@ -360,7 +360,7 @@
 
         <!-- Modal footer -->
         <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">Close</button>
+          <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = '#Events'" >Close</button>
         </div>
 
       </div>
@@ -374,7 +374,7 @@
         <!-- Modal Header -->
         <div class="modal-header">
           <h4 class="modal-title">Movie Making  </h4>
-          <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">&times;</button>
+          <button type="button" class="close" data-dismiss="modal"  onclick="window.location.href = '#Events'">&times;</button>
         </div>
 
         <!-- Modal body -->
@@ -406,7 +406,7 @@
 
         <!-- Modal footer -->
         <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">Close</button>
+          <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = '#Events'" >Close</button>
         </div>
 
       </div>
@@ -420,7 +420,7 @@
         <!-- Modal Header -->
         <div class="modal-header">
           <h4 class="modal-title">Keynote </h4>
-          <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">&times;</button>
+          <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = '#Events'" >&times;</button>
         </div>
 
         <!-- Modal body -->
@@ -441,7 +441,7 @@
 
         <!-- Modal footer -->
         <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">Close</button>
+          <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = '#Events'" >Close</button>
         </div>
 
       </div>
@@ -455,7 +455,7 @@
         <!-- Modal Header -->
         <div class="modal-header">
           <h4 class="modal-title">Digital Imaging </h4>
-          <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">&times;</button>
+          <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = '#Events'" >&times;</button>
         </div>
 
         <!-- Modal body -->
@@ -475,7 +475,7 @@
 
         <!-- Modal footer -->
         <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">Close</button>
+          <button type="button" class="btn btn-secondary" data-dismiss="modal"  onclick="window.location.href = '#Events'">Close</button>
         </div>
 
       </div>
@@ -489,7 +489,7 @@
         <!-- Modal Header -->
         <div class="modal-header">
           <h4 class="modal-title">EncredX</h4>
-          <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">&times;</button>
+          <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = '#Events'"  >&times;</button>
         </div>
 
         <!-- Modal body -->
@@ -513,7 +513,7 @@
 
         <!-- Modal footer -->
         <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">Close</button>
+          <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = '#Events'" >Close</button>
         </div>
 
       </div>
@@ -528,7 +528,7 @@
         <!-- Modal Header -->
         <div class="modal-header">
           <h4 class="modal-title">Group Discussion </h4>
-          <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">&times;</button>
+          <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = '#Events'" >&times;</button>
         </div>
 
         <!-- Modal body -->
@@ -547,7 +547,7 @@
         </div>
       <!-- Modal footer -->
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">Close</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = '#Events'" >Close</button>
       </div>
     </div>
   </div>
@@ -561,7 +561,7 @@
         <!-- Modal Header -->
         <div class="modal-header">
           <h4 class="modal-title">Robo Race </h4>
-          <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">&times;</button>
+          <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = '#Events'" >&times;</button>
         </div>
 
         <!-- Modal body -->
@@ -587,7 +587,7 @@
         </div>
       <!-- Modal footer -->
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">Close</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal"  onclick="window.location.href = '#Events'">Close</button>
       </div>
     </div>
   </div>
@@ -602,7 +602,7 @@
           <!-- Modal Header -->
           <div class="modal-header">
             <h4 class="modal-title">Quiz Rules</h4>
-            <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">&times;</button>
+            <button type="button" class="close" data-dismiss="modal"  onclick="window.location.href = '#Events'">&times;</button>
           </div>
   
           <!-- Modal body -->
@@ -622,7 +622,7 @@
   
           <!-- Modal footer -->
           <div class="modal-footer">
-            <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">Close</button>
+            <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = '#Events'" >Close</button>
           </div>
   
         </div>
@@ -636,7 +636,7 @@
         <!-- Modal Header -->
         <div class="modal-header">
           <h4 class="modal-title">Logo</h4>
-          <button type="button" class="close" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">&times;</button>
+          <button type="button" class="close" data-dismiss="modal"  onclick="window.location.href = '#Events'">&times;</button>
         </div>
 
         <!-- Modal body -->
@@ -657,7 +657,7 @@
 
         <!-- Modal footer -->
         <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';" onclick="window.location.href = 'http://codeapj.club/index.php#Events';">Close</button>
+          <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="window.location.href = '#Events'" >Close</button>
         </div>
 
       </div>
